@@ -1,4 +1,4 @@
-React navigation for RN  example. 
+React navigation awith parameter passing (navigation,route)  example. 
 
 Requirements:
 
